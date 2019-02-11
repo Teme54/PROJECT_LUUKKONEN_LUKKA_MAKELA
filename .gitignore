@@ -240,3 +240,9 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Teemun
+build-QRhuntah-Desktop_Qt_5_11_2_MinGW_32bit-Debug/
+
+# Aleksin
+**/.idea/
